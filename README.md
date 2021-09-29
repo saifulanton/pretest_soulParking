@@ -1,4 +1,5 @@
 # PRE TEST INTERVIEW PT SOUL PARKING
+Merupakan Syarat yang kerjakan sebelum interview untuk melihat kompetensi dasar pelamar
 
 # Repository ini berisi dari 3 folder yaitu :
 1. Soal Pre-test
